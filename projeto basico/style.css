@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(32, 31, 31);
+}
+
+#conteiner{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    height: 600px;
+    background-color:aliceblue;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+input{
+    margin-left: 75px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    display: block;
+    width: 70%;
+    padding: 5px;
+    box-sizing: border-box;
+}
